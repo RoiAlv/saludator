@@ -1,7 +1,15 @@
 # Saludator
 
 ## Descripcion 
-Aplicacion web que te saluda por pantalla
+Ejercicio de una aplicacion web que te saluda por pantalla
+
+## Tecnologias
+html
+css
+javascript (vanilla)
+
+## Deploy en github
+https://roialv.github.io/saludator/
 
 ## Etapas
 
@@ -9,8 +17,8 @@ Aplicacion web que te saluda por pantalla
 - [x] Crear la estructura html
 - [x] aplicar estilos con css
 - [x] dotar de comportamiento con js
-- [ ] deploy
+- [x] deploy
 
 ### Sprint 2
-- [ ] mejorar la interfaz grafica
-- [ ] poner el confetti
+- [x] mejorar la interfaz grafica
+- [x] poner el confetti
